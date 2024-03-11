@@ -1,0 +1,15 @@
+
+@ShutdownOnFailedCommand 1
+@NoPromptForPassword 1
+login anonymous
+workshop_download_item 4000 104509899  
+workshop_download_item 4000 3156532965  
+workshop_download_item 4000 3159592264  
+workshop_download_item 4000 3158138969  
+workshop_download_item 4000 3160367779  
+workshop_download_item 4000 3161530501  
+workshop_download_item 4000 3158533277  
+workshop_download_item 4000 3161714925  
+workshop_download_item 4000 3161527342  
+workshop_download_item 4000 3158772226  
+quit
